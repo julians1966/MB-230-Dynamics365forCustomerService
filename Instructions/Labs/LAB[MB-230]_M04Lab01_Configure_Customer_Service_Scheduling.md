@@ -1,7 +1,11 @@
 ---
 lab:
-    title: 'Lab: Configure Customer Service Scheduling'
-    module: 'Module 4: Implement routing and scheduling'
+  title: 'Lab: Configure Customer Service Scheduling'
+  module: 'Module 4: Implement routing and scheduling'
+  description: In this task you will create new contact records.
+  duration: 20 minutes
+  level: 100
+  islab: true
 ---
 
 # Practice Lab - Configure Customer Service Scheduling

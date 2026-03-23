@@ -1,7 +1,11 @@
 ---
 lab:
-    title: 'Lab: Create survey'
-    module: 'Module 6: Customer Voice'
+  title: 'Lab: Create survey'
+  module: 'Module 6: Customer Voice'
+  description: In this exercise, you will create an email template and send the survey by email.
+  duration: 15 minutes
+  level: 100
+  islab: true
 ---
 
 # Practice Lab 6 – Customer Voice

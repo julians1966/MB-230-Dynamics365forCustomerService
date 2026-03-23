@@ -1,7 +1,11 @@
 ---
 lab:
-    title: 'Lab: Define Services'
-    module: 'Module 4: Implement routing and scheduling'
+  title: 'Lab: Define Services'
+  module: 'Module 4: Implement routing and scheduling'
+  description: In this task you will create an oil change service.
+  duration: 15 minutes
+  level: 100
+  islab: true
 ---
 
 # Practice Lab - Define services

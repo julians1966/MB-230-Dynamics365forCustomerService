@@ -1,7 +1,11 @@
 ---
 lab:
-    title: 'Lab: Service Level Agreements'
-    module: 'Module 2: Service Level Agreements and Knowledge Management'
+  title: 'Lab: Service Level Agreements'
+  module: 'Module 2: Service Level Agreements and Knowledge Management'
+  description: In this task, you will configure the settings for service level agreements.
+  duration: 20 minutes
+  level: 100
+  islab: true
 ---
 
 # Practice Lab – Service Level Agreements
